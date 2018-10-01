@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-09-30T17:20:46.235-07:00
+  initializedAtString: 2018-09-30T17:07:44.008-07:00
+  log:
+  - commitID: 52e3c53fb0fdfd41da6b46690ba1a83ce5621ef6
+    mergeA: 
+    mergeB: 
+    authorName: Tony Rivera
+    authorEmail: tony@tonytekinsights.com
+    commitEmail: tony@tonytekinsights.com
+    commitName: Tony Rivera
+    summary: Add .gitignore and .gitattributes.
+    description: Add .gitignore and .gitattributes.
+    timeString: 2018-09-30T17:00:53.000-07:00
+    commitTimeString: 2018-09-30T17:00:53.000-07:00
+    changes:
+    - path: .gitattributes
+      fullPath: E:\Dev\Unity Projects\Space Shooter\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: E:\Dev\Unity Projects\Space Shooter\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
